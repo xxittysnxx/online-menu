@@ -1,5 +1,5 @@
 # Distributed menu service
-This is a National Chengchi Univercity Distributed System Finals Demo.
+This is a National Chengchi Univercity Distributed Systems Project using Docker and Envoy Proxy.
 
 In ```fronyenvoy.yaml```:
 <br>
